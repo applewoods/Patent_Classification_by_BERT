@@ -6,5 +6,5 @@
 * 모델은 F1-Score, Precision, Recall로 평가 ([혼동행렬](https://blog.naver.com/applewoods/222310789382))
 
 ## 참고자료
-[1] CPC 및 IPC 분류코드 ([바로가기](https://www.kipo.go.kr/ko/kpoContentView.do?menuCd=SCD0200269))
-[2] Lee, J. S., & Hsiang, J. (2019). Patentbert: Patent classification with fine-tuning a pre-trained bert model. arXiv preprint arXiv:1906.02124.
+1. CPC 및 IPC 분류코드 ([바로가기](https://www.kipo.go.kr/ko/kpoContentView.do?menuCd=SCD0200269))
+2. Lee, J. S., & Hsiang, J. (2019). Patentbert: Patent classification with fine-tuning a pre-trained bert model. arXiv preprint arXiv:1906.02124.
